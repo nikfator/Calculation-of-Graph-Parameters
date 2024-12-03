@@ -1,0 +1,67 @@
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Алексей\Desktop\проекты\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csprojAssemblyReference.cache
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.GenerateResource.cache
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.CoreCompileInputs.cache
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Максим УНивер\ПРограммирование\Курсач\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.GenerateResource.cache
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.CoreCompileInputs.cache
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.Form1.resources
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.register.resources
+D:\Максим УНивер\ПРограммирование\Курсовая !\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DrawGraphic.resources
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csprojAssemblyReference.cache
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.Form1.resources
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DrawGraphic.resources
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.register.resources
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.GenerateResource.cache
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.CoreCompileInputs.cache
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\Максим УНивер\1 сем\ПРограммирование\Курсовая ! — копия\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.AssemblyReference.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.Form1.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DrawGraphic.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.register.resources
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.GenerateResource.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.CoreCompileInputs.cache
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\krivo\OneDrive\Рабочий стол\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.AssemblyReference.cache
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.Form1.resources
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.DrawGraphic.resources
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\Kursovoy_proekt.register.resources
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.GenerateResource.cache
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\SearchCycles.csproj.CoreCompileInputs.cache
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\belug\Downloads\Курсовая работа\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
